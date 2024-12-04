@@ -86,6 +86,9 @@ endmodule
 
  Developed by:Ezhilarasi N RegisterNumber: 24901074
  
+
+
+
 **Logic symbol & Truthtable**
 
 ![Screenshot 2024-12-04 091406](https://github.com/user-attachments/assets/70b68154-a4f0-47cd-aeaf-7bde5727b232)
