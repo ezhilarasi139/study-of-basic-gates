@@ -92,12 +92,14 @@ endmodule
 
 
 **RTL realization Output:** 
-![Screenshot (28)](https://github.com/user-attachments/assets/0c6b3449-771b-4e47-9b30-8196b8e3904c)
+![Screenshot (1)](https://github.com/user-attachments/assets/d54bffaa-0edf-4e4f-8bbc-7d5b18288e77)
+
 
 
 
 **OUTPUT**
-![Screenshot (29)](https://github.com/user-attachments/assets/47d0b303-cabf-4ff8-baf4-59282da4ad73)
+![Screenshot (2)](https://github.com/user-attachments/assets/443742f7-6002-4281-b2d0-8735b64278a9)
+
 
 
 **Result:**
